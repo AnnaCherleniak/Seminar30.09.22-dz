@@ -3,6 +3,5 @@
 Console.Write("Введите трехзначное число ");
 string namber = Convert.ToString(Console.ReadLine());
 int size = 3;
-int i = size;
-int x = namber[i];
-Console.WriteLine(x);
+int i = size - 1;
+Console.WriteLine(namber[i]);
