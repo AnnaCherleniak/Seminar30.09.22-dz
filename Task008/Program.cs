@@ -1,8 +1,14 @@
-﻿// Дано число из отрезка [10, 99]. Показать наибольшую цифру числа.
+﻿// Дано число из отрезка [10, 99]. Показать наибольшую цифру числа
 
-Console.Write("Введите трехзначное число ");
+Console.Write("Введите любое число от 10 до 99 - ");
 string number = Convert.ToString(Console.ReadLine());
-int size = 3;
-int i = 0;
-int max_number = number[i];
-Console.WriteLine(max_number);
+if(number[0] > number[1])
+{
+    Console.Write("Наибольшая цифра ");
+    Console.WriteLine(number[0]);
+}
+else if(number[1] > number[0])
+{
+    Console.Write("Наибольшая цифра ");
+    Console.WriteLine(number[1]);
+}
