@@ -1,12 +1,20 @@
-﻿Console.Write("Введите трехзначное число ");
-string number = Convert.ToString(Console.ReadLine());
-int max = number[0];
-if(number[1] > max)
+﻿// Проверить кратно ли число 7 и 23
+
+Console.WriteLine ("Введите число");
+double n = Convert.ToDouble(Console.ReadLine());
+if (n % 7 == 0)
 {
-    max = number[1];
+    Console.WriteLine("Число кратно 7");
 }
-if(number[2] > max)
+else
 {
-    max = number[2];
+    Console.WriteLine("Число не кратно 7");
 }
-Console.WriteLine(max);
+if (n % 23 == 0)
+{
+    Console.WriteLine("Число кратно 23");
+}
+else
+{
+    Console.WriteLine("Число не кратно 23");
+}
