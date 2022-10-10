@@ -9,9 +9,8 @@ if(n < 100)
 }
 else 
 {
-    Console.WriteLine(n);
+    string number = n.ToString();
+    int size = number.Length;
+    int i = size - 3;
+    Console.WriteLine(number[i]);
 }
-string number = Convert.ToString(Console.ReadLine());
-int size = number.Length;
-int i = size - 3;
-Console.WriteLine(number[i]);
