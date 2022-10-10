@@ -1,0 +1,16 @@
+C:\Users\Анна\Documents\ДЗ-Семинар-1\Seminar30.09.22-dz\Task011\bin\Debug\net6.0\Task011.exe
+C:\Users\Анна\Documents\ДЗ-Семинар-1\Seminar30.09.22-dz\Task011\bin\Debug\net6.0\Task011.deps.json
+C:\Users\Анна\Documents\ДЗ-Семинар-1\Seminar30.09.22-dz\Task011\bin\Debug\net6.0\Task011.runtimeconfig.json
+C:\Users\Анна\Documents\ДЗ-Семинар-1\Seminar30.09.22-dz\Task011\bin\Debug\net6.0\Task011.dll
+C:\Users\Анна\Documents\ДЗ-Семинар-1\Seminar30.09.22-dz\Task011\bin\Debug\net6.0\ref\Task011.dll
+C:\Users\Анна\Documents\ДЗ-Семинар-1\Seminar30.09.22-dz\Task011\bin\Debug\net6.0\Task011.pdb
+C:\Users\Анна\Documents\ДЗ-Семинар-1\Seminar30.09.22-dz\Task011\obj\Debug\net6.0\Task011.GlobalUsings.g.cs
+C:\Users\Анна\Documents\ДЗ-Семинар-1\Seminar30.09.22-dz\Task011\obj\Debug\net6.0\Task011.csproj.AssemblyReference.cache
+C:\Users\Анна\Documents\ДЗ-Семинар-1\Seminar30.09.22-dz\Task011\obj\Debug\net6.0\Task011.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анна\Documents\ДЗ-Семинар-1\Seminar30.09.22-dz\Task011\obj\Debug\net6.0\Task011.AssemblyInfoInputs.cache
+C:\Users\Анна\Documents\ДЗ-Семинар-1\Seminar30.09.22-dz\Task011\obj\Debug\net6.0\Task011.AssemblyInfo.cs
+C:\Users\Анна\Documents\ДЗ-Семинар-1\Seminar30.09.22-dz\Task011\obj\Debug\net6.0\Task011.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Documents\ДЗ-Семинар-1\Seminar30.09.22-dz\Task011\obj\Debug\net6.0\Task011.dll
+C:\Users\Анна\Documents\ДЗ-Семинар-1\Seminar30.09.22-dz\Task011\obj\Debug\net6.0\ref\Task011.dll
+C:\Users\Анна\Documents\ДЗ-Семинар-1\Seminar30.09.22-dz\Task011\obj\Debug\net6.0\Task011.pdb
+C:\Users\Анна\Documents\ДЗ-Семинар-1\Seminar30.09.22-dz\Task011\obj\Debug\net6.0\Task011.genruntimeconfig.cache
